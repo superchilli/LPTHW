@@ -1,0 +1,36 @@
+.seek(offset [,from]) 改变当前文件位置,
+offset 变量表示要移动的字节数，From 变量指定开始移动字节的参考位置。
+.read() 打印文件的内容
+.readline() 读取整行，直到\n
+.close() 关闭文件，类似于保存文件
+print 打印
+# 注释
++ 相加
+- 减去
+* 乘
+/ 除
+% 取余
+// 返回商，取整数，
+** 幂
+%s 字符
+%d 数字
+%r 原始数据
+%  引入值
+\n 换行
+\ 转义
+\t 缩进
+raw_input() 在运行时获取参数
+argv 在命令端获取参数
+open() 打开文件
+ctrl-c quit
+.truncate() 清空文件
+.write() 清空并填写文件
+os.path
+sys 模块
+exsits Return True if path refers to an existing path.
+def 定义函数
+int() 变成数字
+float() 变成浮点数
+tell() 文件的当前位置
+os.rename(current_file_name, new_file_name) 重命名
+os.remove(file_name) 删除文件
